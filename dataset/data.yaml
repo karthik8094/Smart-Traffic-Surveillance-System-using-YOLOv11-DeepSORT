@@ -1,0 +1,15 @@
+names:
+- bus
+- cars
+- truck
+- van
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: detecting-vehicles-on-aerial-images
+  url: https://universe.roboflow.com/roboflow-jvuqo/detecting-vehicles-on-aerial-images/dataset/8
+  version: 8
+  workspace: roboflow-jvuqo
+test: ../test/images
+train: ../train/images
+val: ../valid/images
